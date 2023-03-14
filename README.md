@@ -5,14 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
- 
+ <style>
+     body{
+     background: black;
+     color:white;
+     }
+   </style>  
 </head>
 <body>
     <h1>
         👋 Hi, I’m <span style="background-color: black; color:white"> @Bassaac</span>
         👀 I’m interested in Tech and Music
         🌱 I’m currently learning React
-        📫 How to reach me https://www.robertsisaac.netlify.app   </h1>
+      </h1>
 </body>
 </html>
 <!---
